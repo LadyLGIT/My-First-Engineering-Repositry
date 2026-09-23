@@ -1,14 +1,11 @@
-# My-First-Engineering-Repositry
+Git Workflow Challenge
 
-Name: Eluyemi Elizabeth 
+This project demonstrates a basic Git workflow.
 
-Why I Want To Learn Software Engineering:
-I Want To Learn Software Engineering To Broaden My Knowledge, To Create Software Designs And Because It Is my Dream To Become An Engineer.  
+Features
 
-Device:
-A Laptop 
+- Git branches
+- Git commits
+- Git merge
 
-Tools Installed:
-- VS Code
-- Git 
--  GitHub
+Author: Eluyemi Elizabeth
